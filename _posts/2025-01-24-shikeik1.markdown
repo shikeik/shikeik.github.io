@@ -1,0 +1,21 @@
+---
+layout:       post
+title:        "Shikeik的文章"
+author:       "Shikeik"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+    - Shikeik
+    - 柏黎
+    - AuthorDescription
+---
+
+> 这是一篇文章
+
+感谢黄玄大佬，b站大佬，这玩意儿真不戳
+
+— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+
+— Shikeik柏黎, 啥也不是，摸鱼挖坑大师，独游开发者，屎山💩大师。
